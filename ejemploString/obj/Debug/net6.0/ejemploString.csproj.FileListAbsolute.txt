@@ -1,0 +1,15 @@
+C:\Users\Trabajo\programacion-workspace\ejemploString\bin\Debug\net6.0\ejemploString.exe
+C:\Users\Trabajo\programacion-workspace\ejemploString\bin\Debug\net6.0\ejemploString.deps.json
+C:\Users\Trabajo\programacion-workspace\ejemploString\bin\Debug\net6.0\ejemploString.runtimeconfig.json
+C:\Users\Trabajo\programacion-workspace\ejemploString\bin\Debug\net6.0\ejemploString.dll
+C:\Users\Trabajo\programacion-workspace\ejemploString\bin\Debug\net6.0\ejemploString.pdb
+C:\Users\Trabajo\programacion-workspace\ejemploString\obj\Debug\net6.0\ejemploString.csproj.AssemblyReference.cache
+C:\Users\Trabajo\programacion-workspace\ejemploString\obj\Debug\net6.0\ejemploString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trabajo\programacion-workspace\ejemploString\obj\Debug\net6.0\ejemploString.AssemblyInfoInputs.cache
+C:\Users\Trabajo\programacion-workspace\ejemploString\obj\Debug\net6.0\ejemploString.AssemblyInfo.cs
+C:\Users\Trabajo\programacion-workspace\ejemploString\obj\Debug\net6.0\ejemploString.csproj.CoreCompileInputs.cache
+C:\Users\Trabajo\programacion-workspace\ejemploString\obj\Debug\net6.0\ejemploString.dll
+C:\Users\Trabajo\programacion-workspace\ejemploString\obj\Debug\net6.0\refint\ejemploString.dll
+C:\Users\Trabajo\programacion-workspace\ejemploString\obj\Debug\net6.0\ejemploString.pdb
+C:\Users\Trabajo\programacion-workspace\ejemploString\obj\Debug\net6.0\ejemploString.genruntimeconfig.cache
+C:\Users\Trabajo\programacion-workspace\ejemploString\obj\Debug\net6.0\ref\ejemploString.dll
